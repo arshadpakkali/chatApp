@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "name": "Nucleon",
+  "name": "CHAT",
   "launch_path": "/index.html",
   "description": "Chat with friends using Firebase 2.0",
   "developer": {
-    "name": "Nucleon inc.",
+    "name": "Chat inc.",
     "url": "https://firebase.google.com"
   },
   "installs_allowed_from": [
@@ -15,7 +15,7 @@
   },
   "locales": {
     "en": {
-      "name": "Nucleon",
+      "name": "CHAT",
       "description": "Chat with friends using Nuclean"
     }
   }

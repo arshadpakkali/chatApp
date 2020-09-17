@@ -1,6 +1,6 @@
 'use strict';
 
-// Initializes Nucleon Chat.
+// Initializes Sleek Chat.
 function FriendlyChat() {
   this.checkSetup();
 

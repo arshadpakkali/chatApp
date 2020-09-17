@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "nucleon-ae53c"
+    "default": "Sleek-ae53c",
+    "new": "chat-app-a0f01",
+    "final": "chat-app-a0f01"
   }
 }
